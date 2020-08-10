@@ -1,5 +1,3 @@
-# Trying out the fancy github stats
-
 [![qcasey's github stats](https://github-readme-stats.vercel.app/api?username=qcasey)](https://github.com/qcasey)
 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=qcasey&layout=compact)](https://github.com/qcasey)
