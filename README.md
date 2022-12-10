@@ -15,4 +15,5 @@ If seeing the unread count on your email distresses you, I'm also on
 - [Matrix](https://matrix.to/#/@qcasey:matrix.quinncasey.com)
 - [Telegram](https://t.me/qcasey)
 - [Mastodon](https://mastodon.technology/@qcasey)
+- [Discord](https://discord.com/users/678995876047487016) qcasey#5638
 - Signal: When I don't have to give out my phone number
