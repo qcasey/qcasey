@@ -1,6 +1,6 @@
 # I'm Quinn
 
-I'm a generalist software developer. I enjoy programming in different flavors, but lately I’ve gravitated toward Flutter and ~~Go~~ Javascript. I like mojitos and getting caught in the sun.
+I'm a generalist software developer. I enjoy programming in different flavors, but lately I’ve gravitated toward Flutter and ~~Go~~ Javascript. I like mountain Dew code red and getting caught in the sun.
 
 I keep an updated list of projects and musings [on my website](https://quinncasey.com/).
 
